@@ -1,0 +1,6 @@
+{
+  "name": "CivicLink AI",
+  "description": "AI-powered integrated digital service platform connecting citizens, organizations, and service providers with intelligent search and fault diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

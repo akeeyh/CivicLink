@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Subtle soft outer pulse representing network coverage -->
+    <path
+        android:fillColor="#10005AC1"
+        android:pathData="M54,16 A38,38 0 1,1 53.9,16 Z" />
+
+    <!-- Solid brand-blue circular badge -->
+    <path
+        android:fillColor="#005AC1"
+        android:pathData="M54,24 A30,30 0 1,1 53.9,24 Z" />
+
+    <!-- Connecting network lines (spokes) for the digital link aspect -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M54,32 L54,38 M54,32 L44,25 M54,32 L64,25" />
+
+    <!-- Civic Building: Triangular Roof -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,50 L54,36 L70,50 Z" />
+
+    <!-- Civic Building: Three Columns -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,50 H46 V64 H42 Z M52,50 H56 V64 H52 Z M62,50 H66 V64 H62 Z" />
+
+    <!-- Civic Building: Solid Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,64 H72 V67 H36 Z" />
+
+    <!-- Central AI Golden Neural Node -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,28 A4,4 0 1,1 53.9,28 Z" />
+
+    <!-- Left Network Satellite Node -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M44,23 A3,3 0 1,1 43.9,23 Z" />
+
+    <!-- Right Network Satellite Node -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M64,23 A3,3 0 1,1 63.9,23 Z" />
+
+</vector>
